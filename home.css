@@ -5,7 +5,7 @@ body,html {
     overflow-x:hidden;
 }
 .pimg {
-    background-image: url('/css/1stpagebg.jpg' );
+    background-image: url('./css/1stpagebg.jpg' );
     min-height: 100vh; /* Full viewport height */
     width:100%;
     background-size:cover;
@@ -78,7 +78,7 @@ section button:hover{
     transform:translateY(15%);
 }
 .parallax-section {
-    background-image: url('/css/2ndimg.jpg');
+    background-image: url('./css/2ndimg.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -174,29 +174,29 @@ section button:hover{
 }
 @keyframes ex{
     0%{
-        background-image:url('/css/2-1img.jpg');
+        background-image:url('./css/2-1img.jpg');
     }
     20%{
         
-        background-image:url('/css/2-2img.jpg');
+        background-image:url('./css/2-2img.jpg');
     }
     37%{
-        background-image:url('/css/auuadest.jpg');
+        background-image:url('./css/auuadest.jpg');
     }
    
     57%{
-        background-image:url('/css/2-4img.jpg')
+        background-image:url('./css/2-4img.jpg')
     }
     65%{
-        background-image:url('/css/2-5img.jpg');
+        background-image:url('./css/2-5img.jpg');
         
 
     }
     80%{
-        background-image:url('/css/2-6img.jpg');
+        background-image:url('./css/2-6img.jpg');
     }
     100%{
-        background-image:url('/css/lungs.jpg');
+        background-image:url('./css/lungs.jpg');
     }
 }
 @keyframes ex1{
@@ -216,7 +216,7 @@ section button:hover{
     align-items:center;
     flex-direction:column;
     flex:0 1 30px;
-    background-image:url('/css/bgtiger');
+    background-image:url('./css/bgtiger');
     background-attachment:fixed;
     background-size:cover;
     height:100vh;    
@@ -267,7 +267,7 @@ section button:hover{
         height:35px;
 }
 .pimg4{
-    background-image:url('/css/mapbg2');
+    background-image:url('./css/mapbg2');
     background-size:cover;
     background-attachment:fixed;
     background-repeat:no-repeat;
