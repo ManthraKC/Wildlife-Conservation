@@ -1,4 +1,4 @@
-# Wildlife-Conservation
+# Wildlife & Nature Conservation Parallax Scrolling Website      
 
 # 📖 About the Project
 This project is a visually engaging parallax scrolling website designed to raise awareness about wildlife and nature conservation. It highlights endangered species, conservation efforts, and the impact of human activities on the environment. The site provides an interactive and immersive experience through stunning visuals and informative content.
