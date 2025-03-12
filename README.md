@@ -19,13 +19,13 @@ Russia: Amur Tiger, Siberian Crane, Baikal Seal
 South Africa: African Elephant, White Rhino, Cape Penguin                           
 More: Conservation status and facts about species from over 15+ countries                               
 
-#🛠️ Built With                              
+# 🛠️ Built With                              
 HTML – Structure of the website                               
 CSS – Styling and parallax effect                               
 Flexbox – Layout management                                 
 Hover Effects – Additional information on interaction                                    
 
-#Output:                                 
+# Output:                                 
 ![image](https://github.com/user-attachments/assets/01236e1f-e17c-4560-9806-d75c6e0a3f5e)                       
 
 
